@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning in Harvard online 
 - 💞️ I’m looking to collaborate on making labs and
 Projects .
-- 📫 How to reach me this is my Gmail julie020061gmail.com
+- 📫 How to reach me this is my Gmail: julie020061@gmail.com or visit 
+My profile .
 
 <!---
 Belouafi45/Belouafi45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
